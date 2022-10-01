@@ -14,7 +14,7 @@ You can contribute in many ways in this repository
 
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list which are not present. <br>
+3. Add more free courses into the list below and in the main.js course_details list which are not present <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
@@ -429,6 +429,12 @@ Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-onli
 <br>
 Sololearn - PHP<br>
 Website-https://www.sololearn.com/learning/1059<br>
+<br>
+Codecademy - Learn PHP<br>
+Website-https://www.codecademy.com/learn/learn-php <br>
+<br>
+Simplilearn - Introduction to PHP Basics<br>
+Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <br>
 </details>
 
